@@ -9,9 +9,12 @@
 </p>
 
 <p align='center'>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Suda-Baka&count_private=true&show_icons=true&layout=compact&hide_border=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suda-Baka&layout=compact&hide_border=true" />
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Suda-Baka&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Suda-Baka&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
 <p align="center">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Suda-Baka&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+<p align="center">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2098595826&auto=1&height=66"></iframe>
 </p>
