@@ -12,3 +12,6 @@
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Suda-Baka&count_private=true&show_icons=true&layout=compact&hide_border=true" />
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suda-Baka&layout=compact&hide_border=true" />
 </p>
+<p align="center">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=Suda-Baka&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
