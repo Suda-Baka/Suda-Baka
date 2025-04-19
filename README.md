@@ -3,6 +3,7 @@
 ```python
 world.run_until_complete()
 ```
+
 # About
 
 大家好这里是`Suda-Baka`，可以叫我`徽忆`，一位普通的技术宅，想要了解关于我的更多可以看我[博客](https://sudabaka.netlify.app/about/)
@@ -28,6 +29,8 @@ world.run_until_complete()
 - Bilibili: [凝澈.](https://space.bilibili.com/1338395679)
 
 # Program Language (Sort by proficiency)
+
+![Code Time](https://wakatime.com/badge/user/58246647-d94d-425f-b471-5e1ce80637d1.svg)
 
 - `Python`
 - `Bash`
