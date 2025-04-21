@@ -4,7 +4,7 @@
 world.run_until_complete()
 ```
 
-# About
+# 关于/About
 
 大家好这里是`Suda-Baka`，可以叫我`徽忆`，一位普通的技术宅，想要了解关于我的更多可以看我[博客](https://sudabaka.netlify.app/about/)
 
@@ -16,19 +16,19 @@ world.run_until_complete()
 
 ![skills](https://skillicons.dev/icons?i=bash,py,js,dart,md,html,css,linux,mysql,git,docker,ps,au,ae,pr,redis,github,vim,vscode,androidstudio)
 
-# Motto
+# 座右铭/Motto
 
 > 朝闻道，夕死可矣。 ——《论语·里仁》
 
 ![Suda-Baka's GitHub](https://github-readme-stats.vercel.app/api?username=Suda-Baka&show_icons=true&count_private=true&theme=darcula&bg_color=00000)
 
-# Contact
+# 联系我/Contact
 
 - Email: [enjoy3020@outlook.com](mailto:enjoy3020@outlook.com)
 - Twitter: [@Suda_Baka](https://x.com/Suda_Baka)
 - Bilibili: [凝澈.](https://space.bilibili.com/1338395679)
 
-# Program Language (Sort by proficiency)
+# 编程语言/Program Language (Sort by proficiency)
 
 ![Code Time](https://wakatime.com/badge/user/58246647-d94d-425f-b471-5e1ce80637d1.svg)
 
@@ -39,7 +39,7 @@ world.run_until_complete()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suda-Baka&layout=compact&theme=darcula&bg_color=00000000&langs_count=6)
 
-# Hobbies
+# 爱好/Hobbies
 
 - Minecraft
 - 音游
