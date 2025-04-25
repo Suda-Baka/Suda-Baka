@@ -14,7 +14,7 @@ world.run_until_complete()
 
 <p align='center'><img src="https://count.getloli.com/@sudayo?name=sudayo&theme=booru-lewd&padding=10&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"/></p>
 
-![skills](https://skillicons.dev/icons?i=bash,py,js,dart,md,html,css,linux,mysql,git,docker,ps,au,ae,pr,redis,github,vim,vscode,androidstudio)
+![skills](https://skillicons.dev/icons?i=bash,py,js,dart,lua,md,html,css,linux,mysql,git,docker,ps,au,ae,pr,redis,github,vim,vscode,androidstudio)
 
 # Motto
 
