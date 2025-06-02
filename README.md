@@ -6,7 +6,7 @@ world.run_until_complete()
 
 # About
 
-大家好这里是`Suda-Baka`，可以叫我`徽忆`，一位普通的技术宅，想要了解关于我的更多可以看我[博客](https://sudabaka.netlify.app/about/)
+大家好这里是`Suda-Baka`，可以叫我`徽忆`，一位普通的技术宅，想要了解关于我的更多可以看我的[博客](https://emotionalsu.dpdns.org/)
 
 - 初中牲
 - 当心*老貮刺螈*
