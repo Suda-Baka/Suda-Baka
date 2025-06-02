@@ -26,7 +26,7 @@ world.run_until_complete()
 
 - **Email:** [enjoy3020@outlook.com](mailto:enjoy3020@outlook.com)
 - **Twitter:** [@Suda_Baka](https://x.com/Suda_Baka)
-- **Bilibili:** [凝澈.](https://space.bilibili.com/1338395679)
+- **Bilibili:** [凝澈_](https://space.bilibili.com/1338395679)
 
 # Program Language (Sort by proficiency)
 
